@@ -1,6 +1,6 @@
 {
   "name": "rc-house",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "hardwired configuration loader",
   "main": "index.js",
   "browser": "browser.js",
